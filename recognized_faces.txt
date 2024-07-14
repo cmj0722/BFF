@@ -1,0 +1,5 @@
+Recognized faces from image:
+
+Face detected:
+[{'emotion': {'angry': 0.0011422552233852912, 'disgust': 3.881011900741527e-08, 'fear': 0.12634615413844585, 'happy': 0.26071760803461075, 'sad': 0.4413754679262638, 'surprise': 0.00018264477148477454, 'neutral': 99.17023777961731}, 'dominant_emotion': 'neutral', 'region': {'x': 1, 'y': 0, 'w': 248, 'h': 248, 'left_eye': (171, 93), 'right_eye': (72, 94)}, 'face_confidence': 0.88}]
+
